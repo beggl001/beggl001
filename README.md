@@ -1,7 +1,9 @@
 ## Hi there 👋
-- I'm majoring in Computer Science at ODU
+- I'm Bowman Eggleston
+- Majoring in Computer Science at ODU
 - I know Python, with some experience in Java, Lua, C, and C++
-- Made a game for ODU Game Design Club's Spring 2025 game jam: https://mothcolada.itch.io/psa
+- In ODU's Game Design and Development Club
+- Made a game for the game design club's Spring 2025 game jam: https://mothcolada.itch.io/psa
 <!--
 **beggl001/beggl001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
